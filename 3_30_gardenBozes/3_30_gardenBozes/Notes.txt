@@ -1,0 +1,4 @@
+﻿make a menu
+	- add a crop/amt per sqft
+	- enter dimemnsions (change to doubles?)
+how  much of each can fit?

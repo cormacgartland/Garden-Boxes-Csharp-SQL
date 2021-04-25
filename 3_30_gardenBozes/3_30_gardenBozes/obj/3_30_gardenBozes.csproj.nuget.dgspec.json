@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\corma\\acad_pgh\\wk_6_git\\garden-boxes\\3_30_gardenBozes\\3_30_gardenBozes\\3_30_gardenBozes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\corma\\acad_pgh\\wk_6_git\\garden-boxes\\3_30_gardenBozes\\3_30_gardenBozes\\3_30_gardenBozes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\corma\\acad_pgh\\wk_6_git\\garden-boxes\\3_30_gardenBozes\\3_30_gardenBozes\\3_30_gardenBozes.csproj",
+        "projectName": "3_30_gardenBozes",
+        "projectPath": "C:\\Users\\corma\\acad_pgh\\wk_6_git\\garden-boxes\\3_30_gardenBozes\\3_30_gardenBozes\\3_30_gardenBozes.csproj",
+        "packagesPath": "C:\\Users\\corma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\corma\\acad_pgh\\wk_6_git\\garden-boxes\\3_30_gardenBozes\\3_30_gardenBozes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\corma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
